@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827039407208-gnna38mvq72i79q5i4190ob026athnqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827039407208-gnna38mvq72i79q5i4190ob026athnqh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3R4BgefiCXjZGRgTRx6zGsAf6BpREXfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827039407208</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cindyroyal.headline</string>
+	<key>PROJECT_ID</key>
+	<string>anothertest-4f472</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anothertest-4f472.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827039407208:ios:2c9cd9a34e86c559536fdd</string>
+	<key>DATABASE_URL</key>
+	<string>https://anothertest-4f472.firebaseio.com</string>
+</dict>
+</plist>
